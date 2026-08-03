@@ -1,11 +1,5 @@
 ; ============================================
-; PROGETTO: TRIS in Assembly x86
-; Nome: Abdul
-; Scuola: ITIS Paleocapa
-; Professore: Franco Baldacci
-; Materia: Assembly / Computer Organisation
-; 
-; Fatto da solo, non copiato dai gruppi
+; PROGETTO: TRIS in Assembly x86 
 ; ============================================
 
 .model small
